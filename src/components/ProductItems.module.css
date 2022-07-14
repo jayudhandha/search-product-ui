@@ -1,0 +1,8 @@
+.prodLabel {
+  margin: 10px;
+}
+
+.prodLabelNoStock {
+  margin: 10px;
+  color: red;
+}
