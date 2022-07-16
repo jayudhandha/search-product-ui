@@ -3,7 +3,7 @@ import ProductTable from "./components/ProductTable";
 
 function App() {
   return (
-    <div className="App">
+    <div className='App'>
       <ProductTable />
     </div>
   );
